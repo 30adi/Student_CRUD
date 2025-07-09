@@ -1,0 +1,18 @@
+# Python
+Student-API/__pycache__/
+Student-API/db.sqlite3
+Student-API/*.pyc
+*.pyc
+*.pyo
+*.pyd
+*.log
+.env
+venv/
+
+# Node
+node_modules/
+build/
+dist/
+.env.local
+.env.development
+.env.production
