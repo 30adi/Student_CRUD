@@ -59,15 +59,6 @@ POST	/add-student	Add new student
 POST	/update-student/<id>	Update student
 DELETE	/delete-student/<id>	Delete student
 
-📬 Contact
-Built by Aditya Chaudhari
-💼 LinkedIn
-📧 adityachaudhari0930@gmail.com
-
-📝 License
-This project is open source and available under the MIT License.
-
----
 
 ### ✅ Next Steps
 
