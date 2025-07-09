@@ -24,36 +24,6 @@ It supports **Create, Read, Update, and Delete (CRUD)** operations with a Django
 
 ---
 
-## 📂 Project Structure
-
-Student_CRUD/
-│
-├── Student-API/ # Django backend (REST API)
-│ ├── manage.py
-│ ├── studentapi/
-│ │ ├── models.py
-│ │ ├── views.py
-│ │ ├── serializers.py
-│ │ ├── urls.py
-│ │ └── ...
-│ └── ...
-│
-├── student-frontend/ # ReactJS frontend
-│ ├── src/
-│ │ ├── components/
-│ │ ├── pages/
-│ │ ├── App.js
-│ │ ├── api.js
-│ │ └── ...
-│ └── ...
-└── README.md
-
-yaml
-Copy
-Edit
-
----
-
 ## 🚀 Getting Started
 
 ### 🔧 Backend (Django)
@@ -63,36 +33,21 @@ Edit
    cd Student-API
 Install dependencies:
 
-bash
-Copy
-Edit
 pip install -r requirements.txt
 Run the development server:
 
-bash
-Copy
-Edit
 python manage.py runserver
 Default API runs at: http://127.0.0.1:8000/
 
 💻 Frontend (React)
 Navigate to the frontend:
 
-bash
-Copy
-Edit
 cd student-frontend
 Install packages:
 
-bash
-Copy
-Edit
 npm install
 Start the React app:
 
-bash
-Copy
-Edit
 npm start
 App runs at: http://localhost:3000/
 
@@ -111,10 +66,6 @@ Built by Aditya Chaudhari
 
 📝 License
 This project is open source and available under the MIT License.
-
-yaml
-Copy
-Edit
 
 ---
 
